@@ -1,0 +1,95 @@
+Removed Pin From Net: NetName=GND Pin=esp32-1
+Removed Pin From Net: NetName=GND Pin=esp32-15
+Removed Pin From Net: NetName=GND Pin=esp32-38
+Removed Pin From Net: NetName=GND Pin=esp32-39
+Removed Pin From Net: NetName=GND Pin=esp32-39
+Removed Pin From Net: NetName=GND Pin=esp32-39
+Removed Pin From Net: NetName=GND Pin=esp32-39
+Removed Pin From Net: NetName=GND Pin=esp32-39
+Removed Pin From Net: NetName=GND Pin=esp32-39
+Removed Pin From Net: NetName=GND Pin=esp32-39
+Removed Pin From Net: NetName=GND Pin=esp32-39
+Removed Pin From Net: NetName=GND Pin=esp32-39
+Removed Pin From Net: NetName=Net0.1uF_2 Pin=R1-2
+Removed Member From Class: ClassName=Sheet2 Member=R1
+Change Component Footprint: Designator=10uF Old Footprint=FP-T491A106M010AT-MFG New Footprint=FP-RAD-TH-D_10_0_5-L_16_1-MFG
+Change Component Comment : Designator=10uF Old Comment=T491A106M010AT New Comment=C1
+Change Component Designator: OldDesignator=P? NewDesignator=Power
+Change Managed Component Library Link : Designator=10uF Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=399D7EDB-2B5A-4DE9-A380-B931ECE47D8B New ItemGUID=25579AC9-593D-4861-A957-8236F63B247F Old RevisionGUID=80534055-8058-42C1-872F-AED47B36D240 New RevisionGUID=5F2FCF8A-4BEB-415B-93AA-3E78DB360C45
+Change component parameters: Designator = "10uF" ("10uF"); Footprint = "FP-T491A106M010AT-MFG"; UniqueID = "\PZPVRDQC" ("\PZPVRDQC")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1mF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Construction"; Value = "RADIAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "10mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "68mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "16mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.63inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "68mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Diameter"; Value = "0.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leakage Current"; Value = "3uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "16mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Life (Hours)"; Value = "3000Hour"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "1.05A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "FC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "16mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=0.1uF(FP-RCE0DB-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.138inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Diameter"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "0.098inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead/Base Style"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.142inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.098inch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net0.1uF_2 Pin=0.1uF-1
+Added Pin To Net: NetName=GND Pin=0.1uF-2
+Added Pin To Net: NetName=Net0.1uF_2 Pin=boot-3
+Added Pin To Net: NetName=Net0.1uF_2 Pin=esp32-25
+Change Net Name : Old Net Name=GND New Net Name=Net0.1uF_2
+Change Net Name : Old Net Name=Net0.1uF_2 New Net Name=Net0.1uF_1
+Added Pin To Net: NetName=GND Pin=esp32-1
+Added Pin To Net: NetName=GND Pin=esp32-15
+Added Pin To Net: NetName=GND Pin=esp32-38
+Added Pin To Net: NetName=GND Pin=esp32-39
+Added Pin To Net: NetName=GND Pin=esp32-39
+Added Pin To Net: NetName=GND Pin=esp32-39
+Added Pin To Net: NetName=GND Pin=esp32-39
+Added Pin To Net: NetName=GND Pin=esp32-39
+Added Pin To Net: NetName=GND Pin=esp32-39
+Added Pin To Net: NetName=GND Pin=esp32-39
+Added Pin To Net: NetName=GND Pin=esp32-39
+Added Pin To Net: NetName=GND Pin=esp32-39
+Added Net: Name=GND
+Added Member To Class: ClassName=Sheet2 Member=Component 0.1uF C2

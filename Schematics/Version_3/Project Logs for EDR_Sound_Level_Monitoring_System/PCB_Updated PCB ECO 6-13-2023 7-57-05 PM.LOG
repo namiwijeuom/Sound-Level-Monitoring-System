@@ -1,0 +1,135 @@
+Removed Pin From Net: NetName=3V3 Pin=Power_Headers-1
+Removed Pin From Net: NetName=GND Pin=Power_Headers-2
+Removed Pin From Net: NetName=A_I_2 Pin=To_LCD_and_Analog_Inputs-1
+Removed Pin From Net: NetName=A_I_1 Pin=To_LCD_and_Analog_Inputs-2
+Removed Pin From Net: NetName=SDA Pin=To_LCD_and_Analog_Inputs-3
+Removed Pin From Net: NetName=SCL Pin=To_LCD_and_Analog_Inputs-4
+Removed Member From Class: ClassName=V3 Member=Power_Headers
+Change Component Footprint: Designator=To_LCD_and_Analog_Inputs Old Footprint=SMTC-TSW-104-08-X-S New Footprint=JST_B4B-XH-A(LF)(SN)
+Change Component Comment : Designator=To_LCD_and_Analog_Inputs Old Comment=TSW-104-08-L-S New Comment=B4B-XH-A(LF)(SN)
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=ESP? NewDesignator=ESP32-WROOM-32D
+Change Managed Component Library Link : Designator=To_LCD_and_Analog_Inputs Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=36BA1F84-FE57-4519-AA72-5CFB7794FDFB Old ItemGUID=19B483DD-D6C9-4AA3-AC01-2E71CA2FEE85 New ItemGUID=F6A1412A-196A-4DE1-8662-D70FA045DFCF Old RevisionGUID=DB25211F-72C6-466C-A977-3B16503E9B1F New RevisionGUID=4C6CCB78-B51C-4EE2-8EF9-14D4C50A042B
+Change component parameters: Designator = "To_LCD_and_Analog_Inputs" ("To_LCD_and_Analog_Inputs"); Footprint = "SMTC-TSW-104-08-X-S"; UniqueID = "\SDVYPKKP" ("\SDVYPKKP")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/B4B-XH-A(LF)(SN)/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B4B-XH-A(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "B4B-XH-A(LF)(SN).SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=3.3Converter(JST-B2P-VH(LF)(SN)_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "B2P-VH(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eVH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 3.96 mm, 1 x 2 Position, Height 10.9 mm, Tail Length 3.7 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "B2P-VH(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IN_Buck_Converter(HDR1X2)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "Header 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Miscellaneous Connectors.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=LCD(JST-B2P-VH(LF)(SN)_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "B2P-VH(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eVH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 3.96 mm, 1 x 2 Position, Height 10.9 mm, Tail Length 3.7 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "B2P-VH(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Mircophone(JST-B2P-VH(LF)(SN)_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "B2P-VH(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eVH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 3.96 mm, 1 x 2 Position, Height 10.9 mm, Tail Length 3.7 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "B2P-VH(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Out_Buck_Converter(HDR1X2)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "Header 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Miscellaneous Connectors.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=Power_Header_ESP32(JST-B2P-VH(LF)(SN)_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "B2P-VH(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eVH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 3.96 mm, 1 x 2 Position, Height 10.9 mm, Tail Length 3.7 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "B2P-VH(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Power_Header_ESP32-1
+Added Pin To Net: NetName=3V3 Pin=Power_Header_ESP32-2
+Added Pin To Net: NetName=SCL Pin=To_LCD_and_Analog_Inputs-1
+Added Pin To Net: NetName=SDA Pin=To_LCD_and_Analog_Inputs-2
+Added Pin To Net: NetName=A_I_1 Pin=To_LCD_and_Analog_Inputs-3
+Added Pin To Net: NetName=A_I_2 Pin=To_LCD_and_Analog_Inputs-4
+Change Net Name : Old Net Name=NetESP?_3 New Net Name=NetESP32-WROOM-32D_3
+Added Pin To Net: NetName=Net3.3Converter_1 Pin=3.3Converter-1
+Added Pin To Net: NetName=Net3.3Converter_1 Pin=LCD-1
+Added Pin To Net: NetName=Net3.3Converter_1 Pin=Mircophone-1
+Added Pin To Net: NetName=Net3.3Converter_1 Pin=Out_Buck_Converter-2
+Added Net: Name=Net3.3Converter_1
+Added Pin To Net: NetName=Net3.3Converter_2 Pin=3.3Converter-2
+Added Pin To Net: NetName=Net3.3Converter_2 Pin=LCD-2
+Added Pin To Net: NetName=Net3.3Converter_2 Pin=Mircophone-2
+Added Pin To Net: NetName=Net3.3Converter_2 Pin=Out_Buck_Converter-1
+Added Net: Name=Net3.3Converter_2
+Added Member To Class: ClassName=V3 Member=Component 3.3Converter B2P-VH(LF)(SN)
+Added Member To Class: ClassName=V3 Member=Component C1 10uF
+Added Member To Class: ClassName=V3 Member=Component IN_Buck_Converter Header 2
+Added Member To Class: ClassName=V3 Member=Component LCD B2P-VH(LF)(SN)
+Added Member To Class: ClassName=V3 Member=Component Mircophone B2P-VH(LF)(SN)
+Added Member To Class: ClassName=V3 Member=Component Out_Buck_Converter Header 2
+Added Member To Class: ClassName=V3 Member=Component Power_Header_ESP32 B2P-VH(LF)(SN)

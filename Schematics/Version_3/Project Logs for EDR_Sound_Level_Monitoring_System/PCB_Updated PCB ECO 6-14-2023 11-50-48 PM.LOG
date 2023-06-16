@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=SCL Pin=To_LCD_and_Analog_Inputs-1
+Removed Pin From Net: NetName=SDA Pin=To_LCD_and_Analog_Inputs-2
+Removed Pin From Net: NetName=A_I_1 Pin=To_LCD_and_Analog_Inputs-3
+Removed Pin From Net: NetName=A_I_2 Pin=To_LCD_and_Analog_Inputs-4
+Removed Member From Class: ClassName=V3 Member=To_LCD_and_Analog_Inputs
+Change Component Designator: OldDesignator=OUT'_Buck_Converter_+ NewDesignator=OUT_Buck_Converter_+
+Added Component: Designator=Analog_Inputs(JST-B2P-VH(LF)(SN)_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "B2P-VH(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eVH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 3.96 mm, 1 x 2 Position, Height 10.9 mm, Tail Length 3.7 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "B2P-VH(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SDA_SCL(JST-B2P-VH(LF)(SN)_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "B2P-VH(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/eVH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 3.96 mm, 1 x 2 Position, Height 10.9 mm, Tail Length 3.7 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "B2P-VH(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A_I_1 Pin=Analog_Inputs-1
+Added Pin To Net: NetName=A_I_2 Pin=Analog_Inputs-2
+Added Pin To Net: NetName=SCL Pin=SDA_SCL-1
+Added Pin To Net: NetName=SDA Pin=SDA_SCL-2
+Added Member To Class: ClassName=V3 Member=Component Analog_Inputs B2P-VH(LF)(SN)
+Added Member To Class: ClassName=V3 Member=Component OUT_Buck_Converter_+ Header 2
+Added Member To Class: ClassName=V3 Member=Component SDA_SCL B2P-VH(LF)(SN)
+Added Room: Name=V3

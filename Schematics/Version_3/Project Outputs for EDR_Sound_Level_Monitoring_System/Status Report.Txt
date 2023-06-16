@@ -1,0 +1,36 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [EDR_Sound_Level_Monitoring_System.PrjPcb]
+   Generated File[PCB_Updated_Legend_Top.gbr]
+   Generated File[PCB_Updated_Paste_Top.gbr]
+   Generated File[PCB_Updated_Soldermask_Top.gbr]
+   Generated File[PCB_Updated_Copper_Signal_Top.gbr]
+   Generated File[PCB_Updated_Copper_Signal_Bot.gbr]
+   Generated File[PCB_Updated_Soldermask_Bot.gbr]
+   Generated File[PCB_Updated_Paste_Bot.gbr]
+   Generated File[PCB_Updated_Legend_Bot.gbr]
+   Generated File[PCB_Updated_Mechanical_1.gbr]
+   Generated File[PCB_Updated_Top_3D_Body.gbr]
+   Generated File[PCB_Updated_Top_Courtyard.gbr]
+   Generated File[PCB_Updated_Top_Assembly.gbr]
+   Generated File[PCB_Updated_Mechanical_13.gbr]
+   Generated File[PCB_Updated_Mechanical_15.gbr]
+   Generated File[PCB_Updated_Top_Component_Center.gbr]
+   Generated File[PCB_Updated_Bottom_Assembly.gbr]
+   Generated File[PCB_Updated_Bottom_Courtyard.gbr]
+   Generated File[PCB_Updated_Bottom_3D_Body.gbr]
+   Generated File[PCB_Updated_Bottom_Component_Center.gbr]
+   Generated File[PCB_Updated_Keep-out.gbr]
+   Generated File[PCB_Updated_Pads_Top.gbr]
+   Generated File[PCB_Updated_Pads_Bot.gbr]
+   Generated File[PCB_Updated_Drawing_1.gbr]
+   Generated File[PCB_Updated_Drillmap_1.gbr]
+   Generated File[PCB_Updated_Profile.gbr]
+   Generated File[PCB_Updated.EXTREP]
+   Generated File[PCB_Updated.REP]
+
+
+Files Generated   : 27
+Documents Printed : 0
+
+Finished Output Generation At 10:21:17 PM On 6/16/2023
